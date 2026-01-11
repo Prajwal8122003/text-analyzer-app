@@ -1,2 +1,13 @@
-# text-analyzer-app
-A simple text analyzer tool built using JavaScript.
+# Text Analyzer App
+
+A web-based text analyzer built using JavaScript.
+
+## Features
+- Word count
+- Character count
+- Sentence count
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
